@@ -1,5 +1,7 @@
 package by.home.java_fundamentals.Task01;
 
+
+
 public class FourDigitNumberView {
 
 	public void showIsSumOfTwoFirstAndTwoLastDigitsEquels(boolean result) {
